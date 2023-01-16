@@ -1,0 +1,8 @@
+{
+  "name": "my_packaged_blocks",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/devthalal/my_packaged_blocks",
+    "ssh": "git@github.com:devthalal/my_packaged_blocks.git"
+  }
+}
